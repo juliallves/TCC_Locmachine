@@ -19,3 +19,9 @@ Viabilidade Econômica: O projeto possui baixo custo inicial e grande potencial 
 🛠️Conclusão
 
 A conclusão central é que a transformação digital fortalece a empresa LocMachine e a prepara para sua atuação futura. Os resultados demonstram que a empresa agora possui uma solução digital clara, funcional e alinhada ao mercado.
+
+
+
+Acesso Administrativo: email-> lucas@gmail.com senha-> 123456
+Acesso Usuario Padrão: email -> teste@gmail.com senha -> 123
+
